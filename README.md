@@ -1,3 +1,5 @@
+https://youtu.be/Z_sZotbnI2U
+
 # Racer - A Genetic Algorithm Project
 
 A genetic algorithm trains multiple cars to navigate a 2D racing track built with Pygame.
